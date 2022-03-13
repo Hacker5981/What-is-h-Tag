@@ -1,0 +1,2 @@
+# What-is-h-Tag
+The h tag is a total of 6. h1, h2, h3, h4, h5, h6 so far is 1 is the largest h6 so the text is getting smaller or if I write &lt;h6> GitHub &lt;/h6> it will be a small text because it is getting smaller from h1 to h6 six Another example &lt;h1> GitHub &lt;/h1> is the largest or maximal increase of the throne &lt;h2> GitHub &lt;/h2> h1 is smaller with &lt;h3> GitHub &lt;/h3> is smaller than h2 and so h6 is The last h7 is not greater than h6 and h6 is the smallest
